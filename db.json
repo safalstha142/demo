@@ -1,14 +1,102 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "CTEVT":[
+        {
+            "id":1,
+            "course":"Electrical and Electronics Engineering"
+        },
+        {
+            "id":2,
+            "course":"Civil Engineering"
+        },
+        {
+            "id":3,
+            "course":"Computer Engineering"
+        },
+        {
+            "id":4,
+            "course":"Mechanical Engineering"
+        },
+        {
+            "id":5,
+            "course":"IT Engineering"
+        },
+        {
+            "ID":6,
+            "course":"Geomatics Engineering"
+        }
+    ],
+    "TU":[
+        {
+            "id":1,
+            "course":"BE IN AGRICULTURE ENGINEERING"
+        },
+        {
+            "id":2,
+            "course":"BE IN ARCHITECTURE"
+        },
+        {
+            "id":3,
+            "course":"BE IN AUTOMOBILE ENGINEERING"
+        },
+        {
+            "id":4,
+            "course":"BE IN CIVIL ENGINEERING"
+        },
+        {
+            "id":5,
+            "course":"BE IN COMPUTER ENGINEERING"
+        },
+        {
+            "id":6,
+            "course":"BE IN ELECTRICAL ENGINEERING"
+        },
+        {
+            "id":7,
+            "course":"BE IN ELECTRONICS AND COMMUNICATION ENGINEERING"
+        },
+        {
+            "id":8,
+            "course":"BE IN GEOMATICS ENGINEERING"
+        }
+        ,{
+            "id":9,
+            "course":"BE IN INDUSTRIAL ENGINEERING"
+        },{
+            "id":10,
+            "course":"BE IN MECHANICAL ENGINEERING"
+        }
+    ],
+    "KU":[
+        {
+            "id":1,
+            "course":"BE IN CHEMICAL ENGINEERING"
+        },
+       
+        {
+            "id":2,
+            "course":"BE IN CIVIL ENGINEERING"
+        },
+        {
+            "id":3,
+            "course":"BE IN COMPUTER ENGINEERING"
+        },
+        {
+            "id":4,
+            "course":"BE IN ELECTRICAL ENGINEERING"
+        },
+        {
+            "id":5,
+            "course":"BE IN ELECTRONICS AND COMMUNICATION ENGINEERING"
+        },
+        {
+            "id":6,
+            "course":"BE IN GEOMATICS ENGINEERING"
+        }
+        ,{
+            "id":7,
+            "course":"BE IN MECHANICAL ENGINEERING"
+        }
+    ],
+    "PU":[]
+    
 }
